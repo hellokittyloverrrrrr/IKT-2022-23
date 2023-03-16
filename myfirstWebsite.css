@@ -1,0 +1,33 @@
+selector {
+  property: value;
+}
+
+h1 {
+  color: white;
+  text-align: left, right, center;
+  font-style: normal, italic;
+  font-size: 500%;
+}
+ h3 {
+  color: white; 
+
+}
+
+table border {
+  color: white;
+}
+
+table {
+  color: white;
+}
+ 
+p {
+  color: white;
+}
+
+details {
+  color: white; 
+}
+
+
+  
